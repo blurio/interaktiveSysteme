@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7270FAE8-252F-671A-1C97-281E72A40345}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HUD_Text.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Fishtext.cs" Line="4" Column="22" />
+      <File FileName="Assets/Scripts/HUD_Text.cs" Line="25" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

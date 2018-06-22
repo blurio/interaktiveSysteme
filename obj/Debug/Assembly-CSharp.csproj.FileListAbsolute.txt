@@ -1,0 +1,2 @@
+/Users/Blurio/UnderwaterTest/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/Blurio/UnderwaterTest/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
