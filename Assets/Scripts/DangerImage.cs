@@ -33,6 +33,9 @@ public class DangerImage : MonoBehaviour
         if (air < 25)
         {
             danger.enabled = true;
+        } else
+        {
+            danger.enabled = false;
         }
         if (Input.GetKeyDown("r"))
         {
